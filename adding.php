@@ -89,7 +89,7 @@ die("هنالك خطأ الرجاء المحاولة مرة اخرى. , <a href=
     
 
      // connect data base
-        	  $dbname = 'epiz_24530482_mbase';
+        	  $dbname = 'إسم قاعدة البيانات';
 
 
 
